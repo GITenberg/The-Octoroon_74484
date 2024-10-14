@@ -1,0 +1,48 @@
+_repo: The-Octoroon_74484
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Cox, Charles A. (Charles Arthur)
+    alias: Cox, Charles Arthur
+    birthdate: 1829
+    deathdate: 1901
+    gutenberg_agent_id: '57522'
+    url: http://www.gutenberg.org/2009/agents/57522
+creator:
+  author:
+    agent_name: Braddon, M. E. (Mary Elizabeth)
+    aliases:
+    - Braddon, Mary Elizabeth
+    - White, Babington
+    - Breddon, Miss
+    - Maxwell, Mary Elizabeth Braddon
+    - Braddon, Mary E.
+    birthdate: 1835
+    deathdate: 1915
+    gutenberg_agent_id: '2957'
+    url: http://www.gutenberg.org/2009/agents/2957
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Elizabeth_Braddon
+description: ''
+gutenberg_issued: '2024-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74484'
+language: en
+pgterms:marc904: https://archive.org/details/octoroon00brad
+pgterms:marc905: 20201229094649braddon
+pgterms:marc906: '1900'
+pgterms:marc907: us
+production_note: Peter Becker, Mary Meehan and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aChicago :$bHomewood Publishing Company, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Racially mixed people -- Fiction'
+- !lcsh 'Slavery -- Louisiana -- History -- 19th century -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Octoroon
+url: http://www.gutenberg.org/ebooks/74484
