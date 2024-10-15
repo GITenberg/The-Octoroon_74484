@@ -8,6 +8,9 @@ contributor:
     deathdate: 1901
     gutenberg_agent_id: '57522'
     url: http://www.gutenberg.org/2009/agents/57522
+covers:
+- cover_type: archival
+  image_path: 74484-h/images/cover.jpg
 creator:
   author:
     agent_name: Braddon, M. E. (Mary Elizabeth)
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2957
     wikipedia: https://en.wikipedia.org/wiki/Mary_Elizabeth_Braddon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74484#The-Octoroon
 gutenberg_issued: '2024-09-27'
 gutenberg_type: Text
 identifiers:
